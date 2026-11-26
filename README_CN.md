@@ -336,3 +336,9 @@ REPL 里 `/plan` 开关计划模式。开着的时候，提示符变成 `(plan)`
 作者 [何宇峰](https://github.com/he-yufeng)，曾任职 Moonshot AI (Kimi)。早前写过一篇相当完整的 [Claude Code 源码分析](article/claude-code-source-analysis.md)，这个项目是它的动手版：那篇带你读懂，这个带你重建。
 
 > CoreCoder 原名 NanoCoder，为避免和 [Nano-Collective/nanocoder](https://github.com/Nano-Collective/nanocoder) 混淆而改名，旧链接会自动跳到这里。
+
+## Fork 说明
+
+本仓库 fork 自 [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder)，
+用于客服 Agent 实验。
+
